@@ -1,0 +1,37 @@
+* {
+    background-color: #3d357e;
+}
+
+
+header {
+    text-align: center;
+}
+
+.logo {
+    width: 400px;
+    margin-top: 90px;
+}
+
+.texto {
+    text-align: center;
+    margin-top: 100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.link {
+    text-align: center;
+    margin-top: 90px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #edae0f;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+}
+button:hover {
+    cursor: pointer; 
+  }
